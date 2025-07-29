@@ -4,7 +4,7 @@ This project is a tool to support solve problem of Linear Algebra in major Appli
 
 ## ⚙️ Requirements
 
-Python ≥ 3.7  
+Python ≥ 3.12
 The following libraries are required:
 
 | Library        | Purpose                            |
